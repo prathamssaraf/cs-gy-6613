@@ -14,8 +14,6 @@ Second, after navigating into the cloned directory, I loaded the Docker containe
 
 ![Docker Container running Screenshot](container_running.jpeg)
 
-This step includes cloning the repository to my local machine using the command:
-
 ## 3. Activating Virtual Environment with Rye and running the Code provided
 Inside the Docker container, I initialized the project environment using rye sync, which installs the required dependencies and activates the virtual environment. Below is a screenshot of the virtual environment setup.
 
